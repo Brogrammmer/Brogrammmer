@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋! My name is **Olzhas**
+## I am a beginner *Front-end developer* from Almaty.
+### Languages and Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+
+### 📫 Mail me: olzhascr7@gmail.com
+#
 
 <!--
 **Brogrammmer/Brogrammmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
